@@ -1,0 +1,33 @@
+body {
+	background-color: gray;
+}
+
+h1 {
+	font-size: 65px;
+	font-family: Helvetica;
+	letter-spacing: -4px;
+}
+
+h2 {
+	font-size: 23px;
+	font-family: Helvetica;
+	letter-spacing: 20px;
+	font-style: italic;
+}
+
+button {
+	flex-direction: row;
+	font-family: courier;
+	font-size: 45px;
+}
+
+#quote {
+	background: black;
+	color: white;
+	font-family: Helvetica;
+	font-size: 50px;
+	font-style: italic;
+	position: center;
+	width: 700px;
+
+}
